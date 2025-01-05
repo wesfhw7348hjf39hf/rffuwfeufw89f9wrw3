@@ -3723,6 +3723,7 @@ function Library:CreateWindow(...)
         TextXAlignment = Enum.TextXAlignment.Center;
         ZIndex = 1;
         Parent = Inner;
+	RichText = true;
     });
 
     local MainSectionOuter = Library:Create('Frame', {
@@ -4172,6 +4173,7 @@ function Library:CreateWindow(...)
                 TextXAlignment = Enum.TextXAlignment.Left;
                 ZIndex = 5;
                 Parent = BoxInner;
+		RichText = true;
             });
 
             local Container = Library:Create('Frame', {
