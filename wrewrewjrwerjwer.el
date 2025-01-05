@@ -167,7 +167,7 @@ local Toggles = {}
 local Options = {}
 local Connections = {}
 
-getgenv().hjf39hf = { 
+getgenv().UI = { 
     Toggles = Toggles,
     Options = Options,
     Connections = Connections,
