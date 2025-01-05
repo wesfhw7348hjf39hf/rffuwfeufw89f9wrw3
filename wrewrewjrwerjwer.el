@@ -167,7 +167,7 @@ local Toggles = {}
 local Options = {}
 local Connections = {}
 
-getgenv().XiaoHack = { 
+getgenv().hjf39hf = { 
     Toggles = Toggles,
     Options = Options,
     Connections = Connections,
