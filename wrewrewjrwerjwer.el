@@ -167,7 +167,7 @@ local Toggles = {}
 local Options = {}
 local Connections = {}
 
-getgenv().Temple = { 
+getgenv().XiaoHack = { 
     Toggles = Toggles,
     Options = Options,
     Connections = Connections,
