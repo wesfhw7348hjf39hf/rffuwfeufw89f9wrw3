@@ -1781,6 +1781,7 @@ do
             TextXAlignment = Enum.TextXAlignment.Left;
             ZIndex = 5;
             Parent = Container;
+	    RichText = true;
         });
 
         if DoesWrap then
