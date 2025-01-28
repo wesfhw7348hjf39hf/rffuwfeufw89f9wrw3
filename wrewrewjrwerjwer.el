@@ -1140,7 +1140,7 @@ do
 
         function ColorPicker:OnChanged(Func)
             ColorPicker.Changed = Func;
-            Func(ColorPicker.Value)
+            Func(ColorPicker.Value, ColorPicker.Transparency)
         end;
 
         if ParentObj.Addons then
