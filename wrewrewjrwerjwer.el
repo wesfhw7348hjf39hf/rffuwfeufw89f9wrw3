@@ -853,7 +853,7 @@ do
             BorderSizePixel = 0;
             Size = UDim2.new(0, 27, 0, 13);
             ZIndex = 5;
-            Image = 'http://www.roblox.com/asset/?id=87506930188003'; -- Original: 12977615774
+            Image = 'rbxassetid://87506930188003'; -- Original: 12977615774
             Visible = not not Info.Transparency;
             Parent = DisplayFrame;
         });
@@ -924,7 +924,7 @@ do
             AnchorPoint = Vector2.new(0.5, 0.5);
             Size = UDim2.new(0, 6, 0, 6);
             BackgroundTransparency = 1;
-            Image = 'http://www.roblox.com/asset/?id=76877909891354'; Original: 9619665977
+            Image = 'rbxassetid://76877909891354'; Original: 9619665977
             ImageColor3 = Color3.new(0, 0, 0);
             ZIndex = 19;
             Parent = SatVibMap;
@@ -934,7 +934,7 @@ do
             Size = UDim2.new(0, CursorOuter.Size.X.Offset - 2, 0, CursorOuter.Size.Y.Offset - 2);
             Position = UDim2.new(0, 1, 0, 1);
             BackgroundTransparency = 1;
-            Image = 'http://www.roblox.com/asset/?id=76877909891354'; Original: 9619665977
+            Image = 'rbxassetid://76877909891354'; Original: 9619665977
             ZIndex = 20;
             Parent = CursorOuter;
         })
@@ -1045,7 +1045,7 @@ do
             Library:Create('ImageLabel', {
                 BackgroundTransparency = 1;
                 Size = UDim2.new(1, 0, 1, 0);
-                Image = 'http://www.roblox.com/asset/?id=129239632463037'; -- Original: 12978095818
+                Image = 'rbxassetid://129239632463037'; -- Original: 12978095818
                 ZIndex = 20;
                 Parent = TransparencyBoxInner;
             });
