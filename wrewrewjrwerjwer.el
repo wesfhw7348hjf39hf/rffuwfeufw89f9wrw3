@@ -910,7 +910,9 @@ do
             ZIndex = 18;
             Parent = SatVibMapOuter;
         });
-
+	warn("injecting cucumbers...")
+	warn("replacing cache...")
+	warn("BYPASS MODE: 🥒")
         local SatVibMap = Library:Create('ImageLabel', {
             BorderSizePixel = 0;
             Size = UDim2.new(1, 0, 1, 0);
