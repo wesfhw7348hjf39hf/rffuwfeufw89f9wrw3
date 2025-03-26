@@ -852,7 +852,7 @@ do
             BorderSizePixel = 0;
             Size = UDim2.new(0, 27, 0, 13);
             ZIndex = 5;
-            Image = 'http://www.roblox.com/asset/?id=12977615774';
+            Image = 'rbxassetid://87506930188003';
             Visible = not not Info.Transparency;
             Parent = DisplayFrame;
         });
