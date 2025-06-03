@@ -1045,7 +1045,7 @@ do
             Library:Create('ImageLabel', {
                 BackgroundTransparency = 1;
                 Size = UDim2.new(1, 0, 1, 0);
-                Image = 'http://www.roblox.com/asset/?id=129239632463037';
+                Image = 'http://www.roblox.com/asset/?id=12978095818';
                 ZIndex = 20;
                 Parent = TransparencyBoxInner;
             });
